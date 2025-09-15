@@ -2,6 +2,8 @@
 bracket for new technique-altas
 ---
 ##Setting - p1s
+
+
 infill : 80~100
 
 
